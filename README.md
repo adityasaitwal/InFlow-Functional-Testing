@@ -1,1 +1,1 @@
-Tested Vendor Module for In-FLow Inventory Cloud Application.
+Tested Vendor Module for In-Flow Inventory Cloud Application.
